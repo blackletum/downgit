@@ -32,7 +32,7 @@ homeModule.config([
 
                     var templateUrl = "https?://github.com/.+/.+";
                     var downloadUrlInfix = "#/home?url=";
-                    var downloadUrlPrefix = "https://downgit.mzmoss.cloud"+downloadUrlInfix;
+                    var downloadUrlPrefix = "https://downgit-lite.mzmoss.cloud"+downloadUrlInfix;
 
                     if ($routeParams.url) {
                         $scope.url = $routeParams.url;
