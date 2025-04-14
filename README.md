@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/MinhasKamal/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
+<h1> <img src="https://github.com/blackletum/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
 
 [![Donate](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark-p-500.png)](https://ko-fi.com/saintsoftware/donate)
 
